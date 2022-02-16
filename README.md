@@ -2,4 +2,4 @@
 - 👀 I’m interested in iOS development, web development and DevOps.
 - 🌱 I’m currently learning Swift, ReactJS, Azure and AWS.
 - 💞️ I’m looking to collaborate on any interesting projects - especially video game related.
-- 📫 How to reach me: mykel.thos@gmail.com
+- 📫 How to reach me: mykel.thos@gmail.com or check https://agathos.dev
