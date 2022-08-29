@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on any interesting projects - especially video game related, JavaScript or iOS projects.
 - 💰 I'm also typically found day trading (as well as long term investing) and creating financial apps.
 - 📫 How to reach me: mykel.thos@gmail.com or check <a href="https://www.agathos.dev">agathos.dev</a>
+<br/><br/><br/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MThos&show_icons=true)
