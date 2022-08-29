@@ -6,3 +6,5 @@
 - 📫 How to reach me: mykel.thos@gmail.com or check <a href="https://www.agathos.dev">agathos.dev</a>
 <br/><br/><br/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MThos&show_icons=true)
+<br/><br/><br/>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MThos&theme=blue-green)
