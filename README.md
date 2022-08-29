@@ -63,8 +63,9 @@
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <br/><br/>
 ### Groups:
-![](https://aleen42.github.io/badges/src/stackoverflow.svg)
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-![](https://aleen42.github.io/badges/src/reddit.svg)
+<br/><br/>
+### THE OG:
+<img src="https://i.imgur.com/wcsdiPu.png" width="250">
