@@ -67,5 +67,5 @@
 ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 <br/><br/>
-### King of Developers:
+### Developer Homeland:
 <img src="https://i.imgur.com/wcsdiPu.png" width="250">
