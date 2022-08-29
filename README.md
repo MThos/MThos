@@ -1,15 +1,29 @@
-- 👋 Hi, I’m @MThos - otherwise known as Mykel Agathos.
-- 👀 I’m interested in iOS development, web development and DevOps.
-- 🌱 I’m currently learning Swift, React/NodeJS, Redis and Heroku PaaS.
-- 💞️ I’m looking to collaborate on any interesting projects - especially video game related, JavaScript or iOS projects.
-- 💰 I'm also typically found day trading (as well as long term investing) and creating financial apps.
-- 📫 How to reach me: mykel.thos@gmail.com or check <a href="https://www.agathos.dev">agathos.dev</a>
+## Introduction:
+👋 Hi, I’m @MThos - otherwise known as Mykel Agathos.
+<br/>
+👀 I’m interested in iOS development, web development and DevOps.
+<br/>
+🌱 I’m currently learning Swift, React/NodeJS, Redis and Heroku PaaS.
+<br/>
+💞️ I’m looking to collaborate on any interesting projects - especially video game related, JavaScript or iOS projects.
+<br/>
+💰 I'm also typically found day trading (as well as long term investing) and creating financial apps.
+<br/>
+📫 How to reach me: mykel.thos@gmail.com or check <a href="https://www.agathos.dev">agathos.dev</a>
 <br/><br/>
 ### Github Statistics
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MThos&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MThos&theme=blue-green)
 <br/><br/>
 ### Usage:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MThos&theme=blue-green)
+<br/><br/>
+## What I Use?
+### Laptop:
+![](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+<br/><br/>
+### Desktop:
+![](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-RTX2080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br/><br/>
 ### OS:
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
