@@ -9,7 +9,7 @@
 <br/>
 💰 I'm also typically found day trading (as well as long term investing) and creating financial apps.
 <br/>
-📫 How to reach me: mykel.thos@gmail.com or check <a href="https://www.agathos.dev">agathos.dev</a>
+📫 How to reach me: mykel.thos@gmail.com or check <a href="https://www.agathos.dev">https://www.agathos.dev</a>
 <br/><br/>
 ### Github Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MThos&theme=blue-green)
