@@ -4,6 +4,8 @@
 👀 I’m interested in iOS development, web development and DevOps.
 <br/>
 🌱 I’m currently learning React Native, ReactJS, NodeJS and Redis.
+<br />
+⭐ My most knowledgable areas: JavaScript, PHP, .NET and SQL.
 <br/>
 💞️ I’m looking to collaborate on any interesting projects - especially video game related, JavaScript or iOS projects.
 <br/>
