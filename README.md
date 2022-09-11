@@ -3,7 +3,7 @@
 <br/>
 👀 I’m interested in iOS development, web development and DevOps.
 <br/>
-🌱 I’m currently learning Swift, React/NodeJS, Redis and Heroku PaaS.
+🌱 I’m currently learning React Native, ReactJS, NodeJS and Redis.
 <br/>
 💞️ I’m looking to collaborate on any interesting projects - especially video game related, JavaScript or iOS projects.
 <br/>
