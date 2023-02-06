@@ -5,7 +5,7 @@
 <br/>
 🌱 I’m currently learning React Native, ReactJS, NodeJS and Redis.
 <br />
-⭐ My most knowledgable area: JavaScript, PHP, dotNET and SQL.
+⭐ My most knowledgable area: JavaScript, ReactJS, PHP, dotNET and SQL.
 <br/>
 💞️ I’m looking to collaborate on any interesting projects - especially video game related, JavaScript or iOS projects.
 <br/>
