@@ -3,7 +3,7 @@
 <br/>
 👀 I’m interested in iOS development, web development and DevOps.
 <br/>
-🌱 I’m currently learning React Native, ReactJS, NodeJS and Redis.
+🌱 I’m currently learning Java and ReactJS/NodeJS.
 <br />
 ⭐ My most knowledgable area: JavaScript, ReactJS, PHP, dotNET and SQL.
 <br/>
